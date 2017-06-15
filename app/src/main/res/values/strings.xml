@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-PullRefreshLayout</string>
+    <string name="hello">Hello World</string>
+</resources>
